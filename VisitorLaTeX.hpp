@@ -37,11 +37,11 @@ class VisitorLaTeX : public Visitor {
 
 
         virtual void visit_op(op* node) {
-            out.push_back("{" + std::to_string(node->evaluate()) + "}");
+            //out.push_back("{" + std::to_string(node->evaluate()) + "}");
         }
 
         virtual void visit_rand(op_rand* node) {
-            out.push_back("{" + std::to_string(node->evaluate()) + "}");
+            //out.push_back("{" + std::to_string(node->evaluate()) + "}");
         }
 
 
