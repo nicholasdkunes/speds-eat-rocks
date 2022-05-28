@@ -1,0 +1,15 @@
+C:/Users/nicho/Desktop/speds-eat-rocks/out/CMakeFiles/object.dir
+C:/Users/nicho/Desktop/speds-eat-rocks/out/CMakeFiles/test.dir
+C:/Users/nicho/Desktop/speds-eat-rocks/out/CMakeFiles/INSTALL.dir
+C:/Users/nicho/Desktop/speds-eat-rocks/out/CMakeFiles/ALL_BUILD.dir
+C:/Users/nicho/Desktop/speds-eat-rocks/out/CMakeFiles/ZERO_CHECK.dir
+C:/Users/nicho/Desktop/speds-eat-rocks/out/googletest/CMakeFiles/INSTALL.dir
+C:/Users/nicho/Desktop/speds-eat-rocks/out/googletest/CMakeFiles/ALL_BUILD.dir
+C:/Users/nicho/Desktop/speds-eat-rocks/out/googletest/googlemock/CMakeFiles/gmock.dir
+C:/Users/nicho/Desktop/speds-eat-rocks/out/googletest/googlemock/CMakeFiles/gmock_main.dir
+C:/Users/nicho/Desktop/speds-eat-rocks/out/googletest/googlemock/CMakeFiles/INSTALL.dir
+C:/Users/nicho/Desktop/speds-eat-rocks/out/googletest/googlemock/CMakeFiles/ALL_BUILD.dir
+C:/Users/nicho/Desktop/speds-eat-rocks/out/googletest/googletest/CMakeFiles/gtest.dir
+C:/Users/nicho/Desktop/speds-eat-rocks/out/googletest/googletest/CMakeFiles/gtest_main.dir
+C:/Users/nicho/Desktop/speds-eat-rocks/out/googletest/googletest/CMakeFiles/INSTALL.dir
+C:/Users/nicho/Desktop/speds-eat-rocks/out/googletest/googletest/CMakeFiles/ALL_BUILD.dir

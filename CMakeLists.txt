@@ -7,6 +7,13 @@ ADD_SUBDIRECTORY(googletest)
 ADD_EXECUTABLE(object
 main.cpp
 iterator.cpp
+op.cpp
+op_add.cpp
+op_subtract.cpp
+op_multiply.cpp
+op_divide.cpp
+op_power.cpp
+op_rand.cpp
 )
 
 ADD_EXECUTABLE(test
